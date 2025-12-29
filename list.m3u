@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="montctv" tvg-name="Thập Cẩm TV" tvg-logo="https://github.com/dtquyen-droid/Listm3u/blob/main/ThapCam.jpg?raw=true" group-title="IPTV Việt",Thập Cẩm TV
-http://fexyz.com/montctv
+#EXTINF:-1 tvg-id="ThapCam" tvg-name="Thập Cẩm TV" tvg-logo="https://github.com/dtquyen-droid/Listm3u/blob/main/ThapCam.jpg?raw=true" group-title="Thể thao",Thập Cẩm TV
+http://tctv.pro
  
 #EXTINF:-1 tvg-id="XoiLac" tvg-name="Xôi lạc" tvg-logo="https://github.com/dtquyen-droid/Listm3u/blob/main/XoiLac.jpg?raw=true" group-title="Thể thao",XoiLacZ.Live
 http://kutt.it/xoilacz
